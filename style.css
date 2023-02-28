@@ -1,0 +1,10 @@
+td,th{
+    height: 40px;
+    width: 50px;
+}
+tr{
+    column-width: auto;
+    row-gap: 5;
+    color:rgb(12, 12, 12) ;
+    scroll-padding: above;
+}
